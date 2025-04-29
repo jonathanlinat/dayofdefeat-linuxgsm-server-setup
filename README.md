@@ -1,4 +1,4 @@
-# Day of Defeat 1.3: Set up a server with LinuxGSM
+# Day of Defeat 1.3: Set Up a Server with LinuxGSM
 
 Welcome to the comprehensive guide for setting up a **Day of Defeat 1.3** server using `Linux Game Server Manager` (`LinuxGSM`). Below are detailed steps and resources to ensure a hassle-free server setup.
 
@@ -6,11 +6,11 @@ Welcome to the comprehensive guide for setting up a **Day of Defeat 1.3** server
 | --------------------------- |
 | [![](https://dcbadge.vercel.app/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
 
-## Overview of Features
+## Overview
 
 This setup guide involves several key components:
 
-- **Day of Defeat**: Explore the [Steam Store Page](https://store.steampowered.com/app/30/Day_of_Defeat/)
+- **Day of Defeat 1.3**: Explore the [Steam Store Page](https://store.steampowered.com/app/30/Day_of_Defeat/)
 - **LinuxGSM**: Visit the [Official Website](https://linuxgsm.com/) for more info
 
 ### Mods and Tools
