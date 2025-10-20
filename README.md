@@ -3,8 +3,8 @@
 Welcome to the comprehensive guide for setting up a **Day of Defeat 1.3** server using `Linux Game Server Manager` (`LinuxGSM`). Below are detailed steps and resources to ensure a hassle-free server setup.
 
 | 💬 Join an Active Community |
-| --------------------------- |
-| [![](https://dcbadge.vercel.app/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
+| -- |
+| [![DoD Game Info](https://dcbadge.limes.pink/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
 
 ## Overview
 
